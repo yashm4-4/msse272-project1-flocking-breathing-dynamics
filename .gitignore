@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Ignore generated frames unless curated
+results/*.png
+!results/simulation.gif
+
+# VS Code
+.vscode/
