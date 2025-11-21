@@ -1,4 +1,4 @@
-# MSSE 272 — Project 1: Many-Particle Simulation
+# MSSE 272 — Project 1: Flocking & Breathing Dynamics Simulation
 
 This project simulates the 2D motion of many particles interacting with a nonlinear restoring force, producing “flocking” and “breathing” behavior, both being characteristics of collective biological motion.
 
