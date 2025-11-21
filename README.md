@@ -1,7 +1,10 @@
 # MSSE 272 — Project 1: Many-Particle Simulation
 
-This project simulates the 2D motion of many particles subject to a nonlinear restoring force using Newtonian dynamics.  
-It demonstrates numerical integration, scientific visualization, and modern modular Python design aligned with real scientific-computing workflows.
+This project simulates the 2D motion of many particles interacting with a nonlinear restoring force, producing “flocking” and “breathing” behavior, both being characteristics of collective biological motion.
+
+The system evolves according to Newtonian dynamics and is integrated using a semi-Verlet scheme, demonstrating key ideas in numerical simulation, force modeling, and visual pattern formation.
+
+The resulting motion shows particles contract towards the center and then expanding out again, showcasing an organism-like “breathing” pattern.
 
 ---
 
